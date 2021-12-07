@@ -23,6 +23,13 @@ public class Portal : MonoBehaviour
             other.transform.position = target.position;
             other.transform.rotation = target.rotation;
         }
+        float distance=Vector3.Distance(other.transform.position, this.transform.position); ;
+        if (distance > portalRadious)
+        {
+            other.transform.position = target.position;
+            other.transform.rotation = target.rotation;
+        }
+       
         Debug.Log("Something entered "+other.tag);
     }
 }
