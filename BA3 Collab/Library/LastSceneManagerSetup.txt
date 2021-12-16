@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Daniel/Level1_Daniel.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
