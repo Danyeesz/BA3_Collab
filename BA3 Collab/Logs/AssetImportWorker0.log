@@ -371,3 +371,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 490.138429 seconds.
+  path: Assets/Art/Map/Star_1.skp
+  artifactKey: Guid(b406bbc66774e4fda9558314f26ce2cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Map/Star_1.skp using Guid(b406bbc66774e4fda9558314f26ce2cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52c0e01f8984467cfdd4df534d423404') in 0.144630 seconds 
+  Import took 0.149165 seconds .
+
